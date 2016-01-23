@@ -1,1 +1,3 @@
 # FileRaider
+
+The game where your file system comes alive...

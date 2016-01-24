@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{E5087E72-2393-70B6-2B91-54C6AC3EEB23}") = "FileRaider", "Assembly-CSharp-firstpass.csproj", "{C47F5CA4-DFB4-6E58-7205-548F6580FD98}"
 EndProject
+Project("{E5087E72-2393-70B6-2B91-54C6AC3EEB23}") = "FileRaider", "Assembly-CSharp.csproj", "{A8FB9C7A-47D2-030D-2C3A-700ABB2895EA}"
+EndProject
 Project("{E5087E72-2393-70B6-2B91-54C6AC3EEB23}") = "FileRaider", "Assembly-CSharp-Editor.csproj", "{C23204A8-9407-756E-83F2-1C59DD7CEC68}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{C47F5CA4-DFB4-6E58-7205-548F6580FD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C47F5CA4-DFB4-6E58-7205-548F6580FD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C47F5CA4-DFB4-6E58-7205-548F6580FD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FB9C7A-47D2-030D-2C3A-700ABB2895EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FB9C7A-47D2-030D-2C3A-700ABB2895EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FB9C7A-47D2-030D-2C3A-700ABB2895EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FB9C7A-47D2-030D-2C3A-700ABB2895EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C23204A8-9407-756E-83F2-1C59DD7CEC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C23204A8-9407-756E-83F2-1C59DD7CEC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C23204A8-9407-756E-83F2-1C59DD7CEC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
